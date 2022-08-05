@@ -1,0 +1,4 @@
+.footer {
+  border-top: 1px solid var(--bs-body-color);
+  padding: 1rem;
+}
